@@ -23,4 +23,11 @@ The inner loop runs completely every time the outer loop runs once.
 This is useful when working with multi-dimensional data, pattern printing, or performing repeated actions in layers.
 */
 
+//Example:
+for (let i = 0; i <= 10; i++) {
+  console.log(`outer loop value: ${i}`);
+  for (let j = 0; j <= 10; j++) {
+    console.log(`inner loop value: ${j}`);
+  }
+}
 

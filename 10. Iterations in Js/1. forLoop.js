@@ -46,3 +46,9 @@ for (let i = 0; i < heroes.length; i++) {
   console.log(element);
 }
 
+/*Break and Continue Keywords:
+Let's understand the break and continue through an example. 
+Let's say we want to stop(break) the loop at a certain point (condition), 
+or we want a certain iteration to be skipped in the loop, that's where we use these keywords.
+*/
+

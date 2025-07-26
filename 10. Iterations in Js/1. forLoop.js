@@ -38,3 +38,11 @@ for (let i = 1; i <= 10; i++) {
     console.log(`${i} * ${j} = ${i * j}`);
   }
 }
+
+// for loop on an array:
+const heroes = ["IronMan", "Captain America", "Thor"];
+for (let i = 0; i < heroes.length; i++) {
+  const element = heroes[i];
+  console.log(element);
+}
+

@@ -50,5 +50,22 @@ for (let i = 0; i < heroes.length; i++) {
 Let's understand the break and continue through an example. 
 Let's say we want to stop(break) the loop at a certain point (condition), 
 or we want a certain iteration to be skipped in the loop, that's where we use these keywords.
+
+Example of break keyword:
+Suppose we want to print numbers from 1 to 10, but we want the loop to break at 5, we can use break keyword then.
+*/
+for (let i = 1; i<=10; i++){
+	if(i == 5){
+	console.log(`5 detected`);
+	break;
+	}
+	console.log(`value of i: ${i}`);
+}
+/* Output: It will break the loop whenever the value of i becomes 5.
+value of i: 1
+value of i: 2
+value of i: 3
+value of i: 4
+5 detected
 */
 

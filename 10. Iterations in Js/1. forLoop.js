@@ -69,3 +69,26 @@ value of i: 4
 5 detected
 */
 
+/*
+Example of continue keyword:
+Let's take the same example of printing numbers from 1 to 10 but when the value of i hits 5, 
+we don't wanna execute it so by using continue, it will skip over that iteration and continue towards the next....
+*/
+for (let i = 1; i <= 10; i++) {
+  if (i == 5) {
+    continue;
+  }
+  console.log(`value of i: ${i}`);
+}
+/* 
+value of i: 1
+value of i: 2
+value of i: 3
+value of i: 4
+value of i: 6
+value of i: 7
+value of i: 8
+value of i: 9
+value of i: 10
+*/
+

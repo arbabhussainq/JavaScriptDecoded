@@ -7,4 +7,5 @@ let score = 11;
 do {
   console.log(`Score is ${score}`);
   score++;
-} while (score <= 10);
+} while (score <= 10); // Even though the condition is false, loop body will run at least once
+// Score is 11.

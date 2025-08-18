@@ -23,3 +23,8 @@ const greetings = "Hello World";
 for (const greet of greetings) {
   console.log(`Each char is ${greet}`);
 }
+
+/*
+Looping over MAP Objects
+Map in Js is an Object as well in which we can hold key value pairs. They hold unique values and stay in the same order as they are stored:
+*/

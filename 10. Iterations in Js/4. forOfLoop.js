@@ -15,3 +15,6 @@ for (const iterator of object) {
   the thing which you want to iterate over, It can be an object, String, Array etc.
 }
 */
+for (const num of arr) {
+  console.log(num);
+}

@@ -8,3 +8,4 @@ Maps etc...
 Arrat of Objects: [ { }, { }, { } ]
 Example:
 */
+const arr = [1, 2, 3, 4, 5];

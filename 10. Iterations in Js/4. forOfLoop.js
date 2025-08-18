@@ -28,3 +28,9 @@ for (const greet of greetings) {
 Looping over MAP Objects
 Map in Js is an Object as well in which we can hold key value pairs. They hold unique values and stay in the same order as they are stored:
 */
+
+const map = new Map();
+map.set("PK", "Pakistan");
+map.set("EN", "England");
+map.set("FR", "France");
+console.log(map);

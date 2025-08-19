@@ -34,3 +34,5 @@ map.set("PK", "Pakistan");
 map.set("EN", "England");
 map.set("FR", "France");
 console.log(map);
+
+// Note: for...of loop works on *maps* only and not on objects, it will throw an error like objects are not iteratable._

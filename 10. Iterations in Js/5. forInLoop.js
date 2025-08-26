@@ -8,3 +8,7 @@ const myObject = {
 for (const key in myObject) {
   console.log(`${key} : ${myObject[key]}`);
 }
+/* If you try for...in loop on arrays, that will just fetch the keys 
+from the array unlike for...of loop which gives the values directly.
+We can fetch the values using, `arrayName[key]`.
+*/

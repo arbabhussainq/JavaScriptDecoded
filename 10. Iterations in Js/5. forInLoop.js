@@ -5,3 +5,6 @@ const myObject = {
   rb: "Ruby",
   ru: "Rust",
 };
+for (const key in myObject) {
+  console.log(`${key} : ${myObject[key]}`);
+}

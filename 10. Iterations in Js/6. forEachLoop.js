@@ -11,11 +11,11 @@ Inside the function parameter, you just have to give any name of the value which
 */
 coding.forEach(function (val) {
   console.log(val);
-})
+});
 // We can also write it using arrow functions without any name.
 coding.forEach((item) => {
   console.log(item);
-})
+});
 // Or we can also give the reference of an existing function as a parameter which will then print the items of array
 coding.forEach(
   (item, index, arr) => {

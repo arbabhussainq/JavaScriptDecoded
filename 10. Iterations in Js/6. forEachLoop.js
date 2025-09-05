@@ -9,3 +9,6 @@ const coding = ["JavaScript", "Java", "Ruby", "Cpp", "Python"];
 /* We have to give a callBack function and callback functions don't have a name. 
 Inside the function parameter, you just have to give any name of the value which will have the values of the array in each iteration.
 */
+coding.forEach(function (val) {
+  console.log(val);
+});

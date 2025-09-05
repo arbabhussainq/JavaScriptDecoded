@@ -17,3 +17,8 @@ coding.forEach((item) => {
   console.log(item);
 })
 // Or we can also give the reference of an existing function as a parameter which will then print the items of array
+coding.forEach(
+  (item, index, arr) => {
+    console.log(item, index, arr);
+  } //It will print the item, then it's index, and then the entire coding array.
+);

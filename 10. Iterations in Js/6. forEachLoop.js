@@ -16,3 +16,4 @@ coding.forEach(function (val) {
 coding.forEach((item) => {
   console.log(item);
 })
+// Or we can also give the reference of an existing function as a parameter which will then print the items of array

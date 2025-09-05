@@ -11,4 +11,4 @@ Inside the function parameter, you just have to give any name of the value which
 */
 coding.forEach(function (val) {
   console.log(val);
-});
+})

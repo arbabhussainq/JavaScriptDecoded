@@ -24,3 +24,18 @@ coding.forEach(
 );
 
 // for...each works only on arrays and not on objects, although we can use it on arrays containing objects like:
+
+const myCoding = [
+  {
+    langName: "JavaScript",
+    langCode: "js",
+  },
+  {
+    langName: "C++",
+    langCode: "cpp",
+  },
+  {
+    langName: "Python",
+    langCode: "py",
+  },
+];

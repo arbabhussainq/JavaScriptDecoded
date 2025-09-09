@@ -39,3 +39,7 @@ const myCoding = [
     langCode: "py",
   },
 ];
+
+myCoding.forEach((item) => {
+  console.log(item.langName);
+});

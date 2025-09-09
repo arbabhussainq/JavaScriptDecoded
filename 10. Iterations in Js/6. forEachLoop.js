@@ -22,3 +22,5 @@ coding.forEach(
     console.log(item, index, arr);
   } //It will print the item, then it's index, and then the entire coding array.
 );
+
+// for...each works only on arrays and not on objects, although we can use it on arrays containing objects like:

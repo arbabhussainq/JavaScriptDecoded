@@ -50,4 +50,4 @@ const values = coding.forEach((item) => {
   return item;
 });
 
-console.log(values);
+console.log(values); // undefined, forEach doesn't return any values.

@@ -43,3 +43,4 @@ const myCoding = [
 myCoding.forEach((item) => {
   console.log(item.langName);
 });
+// Does for...each return any values?

@@ -3,4 +3,3 @@ Filter also takes a callback function and actually returns a value.It filters ou
 */
 
 const myNums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-

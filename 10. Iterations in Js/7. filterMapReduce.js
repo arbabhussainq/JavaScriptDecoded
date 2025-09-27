@@ -8,3 +8,4 @@ const newNums = myNums.filter( (num) => num > 4);
 // One Line Function, doesn't require return keyword.
 
 const newNums2 = myNums.filter( (num) => {return num > 4} );
+// Return keyword is mandatory as {} has it's own scope...

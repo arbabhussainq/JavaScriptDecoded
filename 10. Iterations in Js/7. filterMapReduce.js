@@ -17,3 +17,4 @@ myNums.forEach((nums) => {
     newNums2.push(nums);
   }
 });
+console.log(newNums2);

@@ -11,3 +11,9 @@ const newNums2 = myNums.filter( (num) => {return num > 4} );
 // Return keyword is mandatory as {} has it's own scope...
 
 // What if we want to do the same with forEach???
+const newNums3 = [];
+myNums.forEach((nums) => {
+  if (nums > 4) {
+    newNums2.push(nums);
+  }
+});

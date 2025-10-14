@@ -19,3 +19,11 @@ myNums.forEach((nums) => {
 });
 console.log(newNums2);
 // Filter Exercise: Filtering Books
+const books = [
+  {
+    name: "The Silent Patient",
+    year: 2019,
+    genre: "Thriller",
+    publishYear: "2010",
+    edition: "1st"
+  },

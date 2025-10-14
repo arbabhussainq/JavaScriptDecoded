@@ -27,3 +27,10 @@ const books = [
     publishYear: "2010",
     edition: "1st"
   },
+  {
+    name: "1984",
+    year: 1949,
+    genre: "Dystopian",
+    publishYear: "2015",
+    edition: "1st"
+  },

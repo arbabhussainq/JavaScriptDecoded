@@ -34,3 +34,10 @@ const books = [
     publishYear: "2015",
     edition: "1st"
   },
+  {
+    name: "To Kill a Mockingbird",
+    year: 1960,
+    genre: "Classic",
+    publishYear: "1990",
+    edition: "1st"
+  },

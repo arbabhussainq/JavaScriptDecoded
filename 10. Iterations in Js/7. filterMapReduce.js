@@ -69,3 +69,10 @@ const books = [
     publishYear: "1996",
     edition: "3rd"
   },
+	{
+    name: "The Midnight Library",
+    year: 2020,
+    genre: "Fiction",
+    publishYear: "2015",
+    edition: "1st"
+  },

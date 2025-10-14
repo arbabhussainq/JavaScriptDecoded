@@ -76,3 +76,10 @@ const books = [
     publishYear: "2015",
     edition: "1st"
   },
+	{
+    name: "The Subtle Art of Not Giving a F*ck",
+    year: 2016,
+    genre: "Self-Help",
+    publishYear: "2017",
+    edition: "1st"
+  },

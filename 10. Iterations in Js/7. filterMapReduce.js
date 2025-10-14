@@ -62,3 +62,10 @@ const books = [
     publishYear: "2018",
     edition: "1st"
   },
+	{
+    name: "The Hobbit",
+    year: 1937,
+    genre: "Fantasy",
+    publishYear: "1996",
+    edition: "3rd"
+  },

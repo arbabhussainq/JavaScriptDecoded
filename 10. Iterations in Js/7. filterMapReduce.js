@@ -48,3 +48,10 @@ const books = [
     publishYear: "1995",
     edition: "2nd"
   },
+  {
+    name: "Dune",
+    year: 1965,
+    genre: "Science Fiction",
+	publishYear: "2022",
+    edition: "1st"
+  },

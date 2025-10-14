@@ -41,3 +41,10 @@ const books = [
     publishYear: "1990",
     edition: "1st"
   },
+  {
+    name: "Atomic Habits",
+    year: 2018,
+    genre: "Self-Help",
+    publishYear: "1995",
+    edition: "2nd"
+  },

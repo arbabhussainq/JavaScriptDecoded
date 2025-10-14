@@ -55,3 +55,10 @@ const books = [
 	publishYear: "2022",
     edition: "1st"
   },
+	{
+    name: "Educated",
+    year: 2018,
+    genre: "Memoir",
+    publishYear: "2018",
+    edition: "1st"
+  },

@@ -94,3 +94,4 @@ const books = [
 
 let userBooksFantasy = books.filter((bk) => bk.genre === "Fantasy");
 console.log(userBooksFantasy);
+let userBooksByDate = books.filter( (bk) => bk.publishDate >= "2010");

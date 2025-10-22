@@ -93,3 +93,4 @@ const books = [
 ];
 
 let userBooksFantasy = books.filter((bk) => bk.genre === "Fantasy");
+console.log(userBooksFantasy);

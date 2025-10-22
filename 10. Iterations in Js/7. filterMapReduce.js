@@ -91,3 +91,5 @@ const books = [
     edition: "4th"
   }
 ];
+
+let userBooksFantasy = books.filter((bk) => bk.genre === "Fantasy");

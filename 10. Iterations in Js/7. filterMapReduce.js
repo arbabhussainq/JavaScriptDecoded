@@ -99,3 +99,7 @@ let userBooksByGenre = books.filter( (bk) => {
   return bk.publishDate >= "2010" && bk.genre == "Fantasy"
 });
 
+/*Map Function:
+Map iterates all and returns unlike forEach, but it doesn't filter out according 
+to condition. You can either completely change the values, or add to the existing ones
+*/

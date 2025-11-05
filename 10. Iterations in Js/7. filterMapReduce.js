@@ -104,4 +104,4 @@ Map iterates all and returns unlike forEach, but it doesn't filter out according
 to condition. You can either completely change the values, or add to the existing ones
 */
 const myNumber = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-
+const myNewNumber = myNumber.map((num) => num + 10);

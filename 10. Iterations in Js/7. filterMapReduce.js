@@ -110,4 +110,6 @@ console.log(myNewNumber);
 /* Chaining:
 Chaining means using more than one methods simultaneously. We can even chain the same methods 
 */
+const newNumbers = myNumber
+
 

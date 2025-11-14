@@ -112,5 +112,7 @@ Chaining means using more than one methods simultaneously. We can even chain the
 */
 const newNumbers = myNumber
   .map((num) => num * 10)
+  .map((num) => num + 1)
+
 
 

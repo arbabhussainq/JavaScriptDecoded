@@ -116,3 +116,4 @@ const newNumbers = myNumber
   .filter((num) => num >= 40);
 console.log(newNumbers);
 
+// Reduce Method

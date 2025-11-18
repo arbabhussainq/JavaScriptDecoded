@@ -117,3 +117,4 @@ const newNumbers = myNumber
 console.log(newNumbers);
 
 // Reduce Method
+const numbers = [1, 2, 3];

@@ -119,3 +119,4 @@ console.log(newNumbers);
 // Reduce Method
 const numbers = [1, 2, 3];
 const numbersTotal = numbers.reduce((acc, currVal) => {
+	console.log(`acc: ${acc} , currVal: ${currVal}`);

@@ -122,4 +122,3 @@ const numbersTotal = numbers.reduce((acc, currVal) => {
   console.log(`acc: ${acc} , currVal: ${currVal}`);
   return acc + currVal;
 }, 0);
-

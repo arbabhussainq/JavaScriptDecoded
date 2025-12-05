@@ -124,4 +124,4 @@ const numbersTotal = numbers.reduce((acc, currVal) => {
 }, 0);
 console.log(numbersTotal); // 6
 // Also written as:
-const myTotal = numbers.reduce((acc, curr) => acc + curr, 0);
+const myTotal = numbers.reduce((acc, curr) => acc + curr, 0)

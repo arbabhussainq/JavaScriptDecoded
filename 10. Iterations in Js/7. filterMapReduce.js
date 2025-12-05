@@ -123,3 +123,4 @@ const numbersTotal = numbers.reduce((acc, currVal) => {
   return acc + currVal;
 }, 0);
 console.log(numbersTotal); // 6
+// Also written as:

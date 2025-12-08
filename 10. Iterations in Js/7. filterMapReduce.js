@@ -140,4 +140,8 @@ const shoppingCart = [
     itemName: "App Dev Course",
     price: 6000,
   },
+  {
+    itemName: "Data Science Course",
+    price: 10000,
+  },
 ];

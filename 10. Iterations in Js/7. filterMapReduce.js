@@ -127,3 +127,9 @@ console.log(numbersTotal); // 6
 const myTotal = numbers.reduce((acc, curr) => acc + curr, 0);
 
 // Shopping Cart Example:
+const shoppingCart = [
+  {
+    itemName: "Js Course",
+    price: 2000,
+  },
+];

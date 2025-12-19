@@ -145,3 +145,6 @@ const shoppingCart = [
     price: 10000,
   },
 ];
+
+const cartTotal = shoppingCart.reduce((acc, item) => acc + item.price, 0);
+console.log(`Total Price: ${cartTotal}`);
